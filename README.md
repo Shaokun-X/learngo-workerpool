@@ -1,3 +1,4 @@
+## About
 A learning project that helps to get started with Go.
 
 It covers:
@@ -14,3 +15,9 @@ It covers:
 - Channel
     - Buffered channel
     - Unbuffered channel
+
+## TODO
+
+- Implement http download
+- Unit tests
+- Multi-platform build CI
